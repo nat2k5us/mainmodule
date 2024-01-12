@@ -4,6 +4,7 @@ git reset 1
 git reset 2
 git revert 1
 git revert 2
+git revert 3
 
 
 ```html
